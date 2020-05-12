@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="trajectify",
-    version="0.0.4",
+    version="0.0.6",
     author="Adham Elarabawy",
     author_email="adhamelarabawy@gmail.com",
     description="A python package to create continuous quintic hermite splines out of user-selected points.",
